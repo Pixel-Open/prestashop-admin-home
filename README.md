@@ -1,4 +1,4 @@
-# Prestashop Admin Default Homepage
+# Prestashop Admin Homepage
 
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.4-green)](https://php.net/)
 [![Minimum Prestashop Version](https://img.shields.io/badge/prestashop-%3E%3D%208.0.0-green)](https://www.prestashop.com)
@@ -49,4 +49,4 @@ The list of available class names can be obtained with the following query:
 SELECT class_name, wording FROM ps_tab WHERE position > 0;
 ```
 
-**Note:** the table prefix (ps_) should be adjusted according to your project.
+**Note:** the table prefix (`ps_`) should be adjusted according to your project.
